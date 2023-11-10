@@ -126,7 +126,7 @@ span{
     font-weight: 700;
 }
 .hero-section{
-    background-image: url('/Photos/frontimageindian.jpg');
+    background-image: url('./Photos/frontimageindian.jpg');
     background-size: cover;
     height:350px;
     display:flex;
@@ -135,7 +135,7 @@ span{
 
 }
 .hero-section:active{
-    background-image: url('/Photos/front2image.jpg');
+    background-image: url('./Photos/front2image.jpg');
     background-size: cover;
     height:350px;
 }
