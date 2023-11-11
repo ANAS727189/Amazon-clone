@@ -17,13 +17,13 @@
     width: 130px;
     
 }
-.logo{
+ .logo{
     background-image: url('./Photos/amazonlogonew.png');
     background-size: cover;
     height:50px;
     width:100%;
 
-}
+} 
 .border{
     border: 1.5px solid transparent;
 }
