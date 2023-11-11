@@ -18,7 +18,7 @@
     
 }
  .logo{
-    background-image: url('./Photos/amazonlogonew.png');
+    background-image: url('../Photos/amazonlogonew.png');
     background-size: cover;
     height:50px;
     width:100%;
